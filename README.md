@@ -49,3 +49,7 @@
 [Rescaling](https://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/)
 
 [Normalization 2](https://www.turing.com/kb/data-normalization-with-python-scikit-learn-tips-tricks-for-data-science)
+
+
+## Kolaborator Final Project
+Special thanks to @zetsux AKA Mas [Kevin Nathanael Halim](https://github.com/zetsux) :raised_hands:
